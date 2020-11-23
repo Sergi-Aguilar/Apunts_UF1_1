@@ -1,6 +1,6 @@
 # 1. Apunts_UF1_1 
 
-## Introducció las entorns de desenvolupament
+## Introducció
 
 ### Tipus de software
 
@@ -13,7 +13,7 @@
 
 
 - **Aplicació**
-  - Aquest software són les aplicacions d'ofimàtica com el Word, Excel. També els navegadors webs, aplicacions de disseny, etc.
+  - Aquest software són les aplicacions d'ofimàtica com el Word, Excel. També els navegadors webs o les aplicacions de disseny, etc.
   - Exemples:
     - Word
     - Adobe Photoshop
@@ -106,3 +106,40 @@
       - Kanban
       - xTreme Programming
   
+## Llenguatges de programació 
+
+### En l'àmbit de com executes el codi tenim dos tipus:
+- Compilat: Un llenguatge compilat significa que quan tu executes aquest llenguatge, passes a codi maquina el projecte senser i després ho executes sense errors.
+
+  - Exemple: 
+    - C++
+
+- Interpretat: Un llenguatge que és interpretat significa que directament executes el codi font línia per línia i no executes tot el projecte sinó un fitxer en específic.
+  - Exemple: 
+    - Java
+
+
+### En l'àmbit de com obtens el resultat tenim dos tipus:
+- Imperatiu: Llenguatge que tu has d'especificar tots els passos per obtenir el resultat
+- Exemple:
+- Kotlin
+
+- Declaratiu: Llenguatge on indicàs el resultat per obtenir-ho i no les passes
+- Exemple:
+- SQL
+
+### Nivells de llenguatge de programació 
+
+- Baix Nivell: Aquests llenguatges són els que no fa falta utilitzar un IDE per utilitzar-ho
+  - Exemple:
+    - Ensamblador
+- Alt Nivell: Aquests llenguatges són els que per utilitzar-los fa falta utilitzar un IDE
+  - Exemple:
+    - C#
+
+### Com escollir un llenguatge de programació
+
+- Per utilització en el món laboral
+- Per experiència teva
+- Per l'eficiència
+- Per la complexitat
