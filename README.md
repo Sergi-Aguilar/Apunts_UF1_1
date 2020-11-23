@@ -89,17 +89,17 @@
   - Quan el software surt al mercat l'equip ha de mantenir-lo és a dir corregir els nous errors fer millores, optimitzar, etc.
 
 ## Models per desenvolupar software
-- Cascada
+- **Cascada**
   - Aquest model és el menys recomanat perquè si t'has oblidat de dissenyar una cosa i estàs en la fase de codificació has de tornar un altra vegada a la fase de disseny.
-- En V
+- **En V**
   - Aquest model té dos nivells, el primer són les fases menys importants del projecte, el segon nivell que és el de baix són les coses més importants del projecte, com la codificació
-- Prototip 
+- **Prototip** 
   - Aquest model, el software es desenvolupa a partir d'un prototip. Aquest model té dos tipus
     - Prototip ràpid: Quan és te la idea final aquest prototip s'elimina.
     - Prototip Evolutiu: A partir del prototip es fa la idea final.
-- Model en espiral:
+- **Model en espiral:**
   - Aquest model, el software es desenvolupa com una espiral és a dir: Idea Client - Planificació - Desenvolupament i això es repeteix.
-- Metodologies àgils
+- **Metodologies àgils**
   - Aquest model, és per desenvolupar el software d'una manera rapida i que el codi sigui escalable i net.
     - Tipus:
       - Scrum
